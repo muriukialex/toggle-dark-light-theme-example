@@ -19,3 +19,5 @@ spin up the server to view this work
 ```
  npm run start
 ```
+
+![2022-03-14 00 26 59](https://user-images.githubusercontent.com/51236424/158079912-d5f538a1-076a-4500-a640-63bc3f702196.gif)
