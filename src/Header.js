@@ -13,11 +13,7 @@ const Header = () => {
 				onClick={() => changeTheme(theme.isLight)}
 				style={{ cursor: 'pointer' }}
 			>
-				{theme.theme === 'dark' ? (
-					<HiOutlineSun />
-				) : (
-					<BsFillMoonStarsFill />
-				)}
+				{theme.theme === 'dark' ? <HiOutlineSun /> : <BsFillMoonStarsFill />}
 			</span>
 		</>
 	)
